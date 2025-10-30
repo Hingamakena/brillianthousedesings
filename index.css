@@ -2,11 +2,13 @@
   height: 100vh;
   width: 100vw;
   display: flex;
-  justify-items: center;
+  justify-items: space-around;
+  align-items: center;
 }
 #category {
   height: 15%;
   width: 100%;
+  text-align: center;
 }
 #main_outer_div {
   height: 75%;
